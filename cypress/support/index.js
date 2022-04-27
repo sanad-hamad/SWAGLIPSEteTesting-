@@ -13,8 +13,12 @@
 // https://on.cypress.io/configuration
 // ***********************************************************
 
+/// <reference types="Cypress" />
+
+
 // Import commands.js using ES2015 syntax:
 import './commands'
+import './SwagLaps/commands/login-commands'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
