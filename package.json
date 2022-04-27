@@ -1,0 +1,23 @@
+{
+  "name": "swaglipsetetesting-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanad-hamad/SWAGLIPSEteTesting-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanad-hamad/SWAGLIPSEteTesting-/issues"
+  },
+  "homepage": "https://github.com/sanad-hamad/SWAGLIPSEteTesting-#readme",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
